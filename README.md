@@ -3,7 +3,7 @@
 
 This project implements a user-level threading library in C++, inspired by POSIX ucontext but built using `sigsetjmp`, `siglongjmp`, virtual timers, and signal handling.
 
-## 📌 Features
+##  Features
 
 - Cooperative multithreading using user-space context switching
 - Timer-based preemptive scheduling
@@ -12,7 +12,7 @@ This project implements a user-level threading library in C++, inspired by POSIX
 - Main thread management (thread 0)
 - Basic round-robin scheduling
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ make
 
 This project implements a user-level threading library in C++, inspired by POSIX ucontext but built using `sigsetjmp`, `siglongjmp`, virtual timers, and signal handling.
 
-## 📌 Features
+##  Features
 
 - Cooperative multithreading using user-space context switching
 - Timer-based preemptive scheduling
@@ -39,7 +39,7 @@ This project implements a user-level threading library in C++, inspired by POSIX
 - Main thread management (thread 0)
 - Basic round-robin scheduling
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
